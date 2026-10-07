@@ -328,8 +328,8 @@ export default function App() {
       </View>
 
       <ImageBackground
-      {/* Fixed Error 3: ImageBackground URI requires an absolute source object wrapper */}
-        source={{ url: selectedWeather.backgroundImage }}
+      // Fixed Error 3: ImageBackground URI requires an absolute source object wrapper 
+        source={{ uri: selectedWeather.backgroundImage }}
         style={styles.weatherHero}
         imageStyle={styles.weatherHeroImage}
       >
@@ -553,7 +553,7 @@ const styles = StyleSheet.create({
     padding: 15,
   },
   detailItem: {
-    width: '100%',
+    width: '50%',
     paddingVertical: 10,
   },
   detailLabel: {
@@ -609,7 +609,7 @@ const styles = StyleSheet.create({
     padding: 10,
   },
   dailyCard: {
-    flexDirection: 'column',
+    flexDirection: 'row',
     alignItems: 'center',
     paddingVertical: 12,
     borderBottomWidth: 1,
