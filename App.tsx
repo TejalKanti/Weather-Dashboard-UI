@@ -312,8 +312,8 @@ export default function App() {
               // Fixed Error 2: logic used weather.country
               selectedCity === weather.city && styles.selectedCityButton, 
             ]}
-            onPress={() => setSelectedCity(weather.country)}
-          >
+            // Fixed Error 2.1: strategy payload updated from country to city
+            onPress={() => setSelectedCity(weather.city)}> 
             <Text
               style={[
                 styles.cityButtonText,
