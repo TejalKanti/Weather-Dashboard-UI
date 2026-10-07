@@ -309,8 +309,8 @@ export default function App() {
             key={weather.city}
             style={[
               styles.cityButton,
-              selectedCity === weather.country &&
-                styles.selectedCityButton,
+              // Fixed Error 2: logic used weather.country
+              selectedCity === weather.city && styles.selectedCityButton, 
             ]}
             onPress={() => setSelectedCity(weather.country)}
           >
