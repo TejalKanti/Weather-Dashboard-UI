@@ -5,6 +5,7 @@ import {
   Text,
   TouchableOpacity,
   View,
+  ImageBackground,  // Fixed Error 1: Added missing import
 } from 'react-native';
 
 type HourlyForecast = {
