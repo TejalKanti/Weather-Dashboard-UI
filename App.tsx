@@ -317,8 +317,8 @@ export default function App() {
             <Text
               style={[
                 styles.cityButtonText,
-                selectedCity === weather.country &&
-                  styles.selectedCityButtonText,
+                // Fixed Error 2.2: logic targets city now
+                  selectedCity === weather.city && styles.selectedCityButtonText,
               ]}
             >
               {weather.city}
