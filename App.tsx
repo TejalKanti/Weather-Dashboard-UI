@@ -377,7 +377,7 @@ export default function App() {
         <Text style={styles.sectionTitle}>24 Hour Forecast</Text>
 
         <ScrollView
-          horizontal={false}
+          horizontal={true}  // Fixed: Set to true so horizontalContent styling works
           showsHorizontalScrollIndicator={false}
           contentContainerStyle={styles.horizontalContent}
         >
