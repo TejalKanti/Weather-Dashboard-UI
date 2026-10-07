@@ -328,7 +328,8 @@ export default function App() {
       </View>
 
       <ImageBackground
-        source={selectedWeather.backgroundImage}
+      {/* Fixed Error 3: ImageBackground URI requires an absolute source object wrapper */}
+        source={{ url: selectedWeather.backgroundImage }}
         style={styles.weatherHero}
         imageStyle={styles.weatherHeroImage}
       >
