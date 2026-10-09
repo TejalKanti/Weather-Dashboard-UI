@@ -83,39 +83,54 @@ Result: Pass. The fallback engine triggered cleanly without breaking the virtual
 
 ## Screenshots
 
-<img width="3170" height="1674" alt="site map" src="https://github.com/user-attachments/assets/6d9ead61-dae3-4451-b91c-c6f456351a73" />
+<img width="540" height="960" alt="Screenshot_2026 10 07_22 30 06 757" src="https://github.com/user-attachments/assets/d1207bc1-ad2c-4fc3-bdd8-96d093309d24" />
 
 *Caption for screenshot 1: Home Screen.*
 
 
-<img width="3170" height="1674" alt="site map" src="https://github.com/user-attachments/assets/6d9ead61-dae3-4451-b91c-c6f456351a73" />
+<img width="540" height="960" alt="Screenshot_2026 10 07_22 30 06 757" src="https://github.com/user-attachments/assets/0760016a-66fc-4938-a2ea-a8c0567cf162" />
 
-*Caption for screenshot 2: Added to Album.*
-
-
-<img width="3170" height="1674" alt="site map" src="https://github.com/user-attachments/assets/6d9ead61-dae3-4451-b91c-c6f456351a73" />
-
-*Caption for screenshot 3: Validation Error: Enter Information.*
+*Caption for screenshot 2: Joburg Dashboard.*
 
 
-<img width="3170" height="1674" alt="site map" src="https://github.com/user-attachments/assets/6d9ead61-dae3-4451-b91c-c6f456351a73" />
+<img width="540" height="960" alt="Screenshot_2026 10 07_22 30 32 153" src="https://github.com/user-attachments/assets/456f4fd4-0f9d-44a5-8e51-bb8c5a52a75b" />
 
-*Caption for screenshot 4: Validation Error: For Album Title.*
-
-
-<img width="3170" height="1674" alt="site map" src="https://github.com/user-attachments/assets/6d9ead61-dae3-4451-b91c-c6f456351a73" />
-
-*Caption for screenshot 5: Validation Error: For Artist Name.*
+*Caption for screenshot 3: Joburg Dashboard.*
 
 
-<img width="3170" height="1674" alt="site map" src="https://github.com/user-attachments/assets/6d9ead61-dae3-4451-b91c-c6f456351a73" />
+<img width="540" height="960" alt="Screenshot_2026 10 07_22 30 39 086" src="https://github.com/user-attachments/assets/0db42708-ddb8-44b6-aed4-57608da00757" />
 
-*Caption for screenshot 6: Validation Error: For Genre.*
+*Caption for screenshot 4: Joburg Dashboard.*
 
 
-<img width="3170" height="1674" alt="site map" src="https://github.com/user-attachments/assets/6d9ead61-dae3-4451-b91c-c6f456351a73" />
+<img width="540" height="960" alt="Screenshot_2026 10 07_22 30 51 663" src="https://github.com/user-attachments/assets/dfd1e165-4135-4859-b12b-1bef1e2b18c6" />
 
-*Caption for screenshot 7: Validation Error: For Rating.*
+*Caption for screenshot 5: Cape Town Dashboard.*
+
+
+<img width="540" height="960" alt="Screenshot_2026 10 07_22 31 31 054" src="https://github.com/user-attachments/assets/0d491835-bca7-4ad6-ae83-efb479fa9894" />
+
+*Caption for screenshot 6: Cape Town Dashboard.*
+
+
+<img width="540" height="960" alt="Screenshot_2026 10 07_22 31 40 887" src="https://github.com/user-attachments/assets/cad056c3-7554-442f-ad21-a697f00d01fb" />
+
+*Caption for screenshot 7: Cape Town Dashboard.*
+
+
+<img width="540" height="960" alt="Screenshot_2026 10 07_22 32 34 447" src="https://github.com/user-attachments/assets/3e3d083e-477b-4937-b555-497aca2cbd5d" />
+
+*Caption for screenshot 8: Durban Dashboard.*
+
+
+<img width="540" height="960" alt="Screenshot_2026 10 07_22 32 43 854" src="https://github.com/user-attachments/assets/05b7f460-9f3a-46dd-8a3b-9a6ed42cd235" />
+
+*Caption for screenshot 9: Durban Dashboard.*
+
+
+<img width="540" height="960" alt="Screenshot_2026 10 07_22 32 52 586" src="https://github.com/user-attachments/assets/e9b3878b-67f2-4f38-b0d0-fd07a35f9bf1" />
+
+*Caption for screenshot 10: Durban Dashboard.*
 
 ---
 
